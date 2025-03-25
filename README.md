@@ -1,3 +1,3 @@
-# E-Commerce-Sales-Data-Analysis
+# E-Commerce Product Recommendation System
 
 This project analyzes e-commerce sales data to uncover trends in customer behavior, product performance, and revenue. Using Pandas, Matplotlib, and Seaborn.
